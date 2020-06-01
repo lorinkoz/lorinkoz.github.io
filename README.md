@@ -1,7 +1,7 @@
 # Babbling with Lorinkoz
 
 My journey in tech, faith and life.
-Best told when babbling.
+Best told via babbling.
 
 <br/>
 

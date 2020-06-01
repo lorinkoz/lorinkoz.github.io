@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+![lorinkoz](https://secure.gravatar.com/avatar/9c8debc6271934c521ec1262fa7d7277){:class="img-responsive"}
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+My internet name is Lorinkoz, but my mom actually calls me Lorenzo.
+Millenial from the 80's, Computer Science graduate and passionate Python/Django developer for over a decade.
+Husband, father prospect, virtual pilot, amateur bookwriter and Sunday School teacher at my local Methodist church.
+Living by grace.
